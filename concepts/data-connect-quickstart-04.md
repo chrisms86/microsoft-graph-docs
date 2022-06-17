@@ -1,8 +1,10 @@
 ---
-ms.localizationpriority: medium
+title: Getting Started with Data Connect - Create Account
 description: In this step you will create an Azure Storage account where Microsoft Graph data connect will store the data extracted from Microsoft 365 for processing.
+ms.localizationpriority: medium
 ---
 
+# Create an Azure Storage Account for Data Connect
 <!-- markdownlint-disable MD002 MD041 -->
 
 In this step you will create an Azure Storage account where Microsoft Graph data connect will store the data extracted from Microsoft 365 for further processing.

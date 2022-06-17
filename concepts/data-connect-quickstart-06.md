@@ -1,8 +1,10 @@
 ---
-ms.localizationpriority: medium
+title: Getting Started with Data Connect - Consent Requests
 description: Describes how a Microsoft 365 administrator has the ability to approve or deny consent requests via the Admin Center or programmatically via PowerShell.
+ms.localizationpriority: medium
 ---
 
+# Manage Consent Requests
 <!-- markdownlint-disable MD002 MD041 -->
 
 A Microsoft 365 administrator has the ability to approve or deny consent requests. This can be done via the Microsoft 365 Admin Center or programmatically via PowerShell.

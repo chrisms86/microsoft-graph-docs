@@ -1,8 +1,10 @@
 ---
-ms.localizationpriority: medium
+title: Getting Started with Data Connect - Tenant Configuration
 description: Describes how prior to using Microsoft Graph Data Connect for the first time, you need to configure your Microsoft 365 tenant.
+ms.localizationpriority: medium
 ---
 
+# Data Connect Tenant Configuration
 <!-- markdownlint-disable MD002 MD041 -->
 
 Prior to using Microsoft Graph Data Connect for the first time, you need to configure your Microsoft 365 tenant. This involves turning on the service and configuring a security group with permissions to approve data extraction requests.

@@ -1,13 +1,13 @@
 ---
-ms.localizationpriority: medium
+title: Getting Started with Data Connect - Create a Pipeline
 description: This step is to use the Azure Data Factory to create a pipeline to extract the data from Microsoft 365 to the Azure Storage account.
+ms.localizationpriority: medium
 ---
 
+# Create an Azure Data Factory Pipeline
 <!-- markdownlint-disable MD002 MD041 -->
 
 The next step is to use the Azure Data Factory to create a pipeline to extract the data from Microsoft 365 to the Azure Storage account using Microsoft Graph data connect.
-
-## Create an Azure Data Factory pipeline
 
 1. Open a browser and go to your [Azure Portal](https://portal.azure.com/).
 

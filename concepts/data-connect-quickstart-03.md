@@ -1,13 +1,13 @@
 ---
-ms.localizationpriority: medium
+title: Getting Started with Data Connect - Registration
 description: In this exercise you will create, run, and approve an Azure Data Factory pipeline to extract data from Microsoft 365 to an Azure Storage Blob for processing.
+ms.localizationpriority: medium
 ---
 
+# Create a Microsoft Azure Active Directory application registration
 <!-- markdownlint-disable MD002 MD041 -->
 
 In this exercise you will create, run, and approve an Azure Data Factory pipeline to extract data from Microsoft 365 to an Azure Storage Blob for additional processing.
-
-## Create a Microsoft Azure Active Directory application registration
 
 The first step is to create an Azure AD application that will be used as the security principal to run the data extraction process.
 

@@ -1,8 +1,10 @@
 ---
-ms.localizationpriority: medium
+title: Getting Started with Data Connect - Overview
 description: Outlines how to get started with Microsoft Graph Data Connect, including an overview of prerequisites. 
+ms.localizationpriority: medium
 ---
 
+# Data Connect Overview
 <!-- markdownlint-disable MD002 MD041 -->
 
 Microsoft Graph Data Connect augments Microsoft Graph’s transactional model with an intelligent way to access rich data at scale. The data covers how workers communicate, collaborate, and manage their time across all the applications and services in Microsoft 365. Ideal for big data and machine learning, Data Connect allows you to develop applications for analytics, intelligence, and business process optimization by extending Microsoft 365 data into Azure. By integrating in this way, you'll be able to take advantage of the vast suite of compute, storage in Azure while staying compliant with industry standards and keeping your data secure.
