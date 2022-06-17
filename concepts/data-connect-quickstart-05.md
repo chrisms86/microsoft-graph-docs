@@ -1,5 +1,6 @@
 ---
 ms.localizationpriority: medium
+description: This step is to use the Azure Data Factory to create a pipeline to extract the data from Microsoft 365 to the Azure Storage account.
 ---
 
 <!-- markdownlint-disable MD002 MD041 -->

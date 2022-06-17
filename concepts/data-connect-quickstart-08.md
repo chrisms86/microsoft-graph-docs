@@ -1,5 +1,6 @@
 ---
 ms.localizationpriority: medium
+description: Provides a link to Microsoft Graph Data Connect documentation for experimenting further with Data Connect.
 ---
 
 <!-- markdownlint-disable MD002 MD041 -->

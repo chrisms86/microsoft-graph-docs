@@ -1,5 +1,6 @@
 ---
 ms.localizationpriority: medium
+description: In this exercise you will create, run, and approve an Azure Data Factory pipeline to extract data from Microsoft 365 to an Azure Storage Blob for processing.
 ---
 
 <!-- markdownlint-disable MD002 MD041 -->

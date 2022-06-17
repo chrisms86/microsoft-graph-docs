@@ -8,7 +8,7 @@ ms.prod: "excel"
 
 # Update a range format in Excel with Microsoft Graph
 
-The following examples demonstrate how to update properties of the [RangeFormat](/graph/api/resources/rangeformat?view=graph-rest-1.0), [RangeFill](/graph/api/resources/rangefill?view=graph-rest-1.0), and [RangeFont](/graph/api/resources/rangefont?view=graph-rest-1.0) properties of a specified range.
+The following examples demonstrate how to update properties of the [RangeFormat](/graph/api/resources/rangeformat), [RangeFill](/graph/api/resources/rangefill), and [RangeFont](/graph/api/resources/rangefont) properties of a specified range.
 
 The result of this set of requests is a table with three cells formatted like the top three cells in the image below.
 
@@ -530,7 +530,7 @@ Content-type: application/json
 * [Write to an Excel workbook using Microsoft Graph](excel-write-to-workbook.md)
 * [Use workbook functions in Excel with Microsoft Graph](excel-use-functions.md)
 * [Display a chart image in Excel with Microsoft Graph](excel-display-chart-image.md)
-* [Use the Excel REST API](/graph/api/resources/excel?view=graph-rest-1.0)
+* [Use the Excel REST API](/graph/api/resources/excel)
 <!-- uuid: 8fcb5dbc-d5aa-4681-8e31-b001d5168d79 
 2015-10-25 14:57:30 UTC -->
 <!-- {

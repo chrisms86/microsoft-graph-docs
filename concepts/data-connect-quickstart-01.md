@@ -1,5 +1,6 @@
 ---
 ms.localizationpriority: medium
+description: Outlines how to get started with Microsoft Graph Data Connect, including an overview of prerequisites. 
 ---
 
 <!-- markdownlint-disable MD002 MD041 -->

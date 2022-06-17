@@ -1,5 +1,6 @@
 ---
 ms.localizationpriority: medium
+description: In this section we will be building your first ASP.NET project application for to process the Microsoft Graph Data Connect data that was exported.
 ---
 
 <!-- markdownlint-disable MD002 MD041 -->

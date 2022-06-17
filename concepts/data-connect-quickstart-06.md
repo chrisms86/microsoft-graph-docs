@@ -1,5 +1,6 @@
 ---
 ms.localizationpriority: medium
+description: Describes how a Microsoft 365 administrator has the ability to approve or deny consent requests via the Admin Center or programmatically via PowerShell.
 ---
 
 <!-- markdownlint-disable MD002 MD041 -->

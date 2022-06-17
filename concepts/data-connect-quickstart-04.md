@@ -1,5 +1,6 @@
 ---
 ms.localizationpriority: medium
+description: In this step you will create an Azure Storage account where Microsoft Graph data connect will store the data extracted from Microsoft 365 for processing.
 ---
 
 <!-- markdownlint-disable MD002 MD041 -->

@@ -1,5 +1,6 @@
 ---
 ms.localizationpriority: medium
+description: Describes how prior to using Microsoft Graph Data Connect for the first time, you need to configure your Microsoft 365 tenant.
 ---
 
 <!-- markdownlint-disable MD002 MD041 -->
