@@ -1,6 +1,6 @@
 ---
 title: "Choose an API in Microsoft Graph to create and join online meetings"
-description: Outlines Microsoft Graph's'two API sets that arrange and join online meetings on Microsoft Teams or Skype.
+description: Outlines Microsoft Graph's two API sets that arrange and join online meetings on Microsoft Teams or Skype.
 author: "angelgolfer-ms"
 ms.localizationpriority: high
 ---
