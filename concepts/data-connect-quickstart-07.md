@@ -1,6 +1,6 @@
 ---
 title: Getting Started with Data Connect - Create a Project
-description: In this section we will be building your first ASP.NET project application for to process the Microsoft Graph Data Connect data that was exported.
+description: In this section we will be building your first ASP.NET project application to process the Microsoft Graph Data Connect data that was exported.
 ms.localizationpriority: medium
 ---
 
