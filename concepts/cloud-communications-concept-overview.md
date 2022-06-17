@@ -70,9 +70,9 @@ To enable users to send customers a reminder for an appointment or a reminder fo
 
 You can use the cloud communications APIs to build a bot that:
 
-- [Calls a customer](/graph/api/application-post-calls?view=graph-rest-1.0) on Teams.
-- [Plays a recorded prompt](/graph/api/call-playprompt?view=graph-rest-1.0) to serve as a reminder.
-- [Ends the call](/graph/api/call-delete?view=graph-rest-1.0).
+- [Calls a customer](/graph/api/application-post-calls) on Teams.
+- [Plays a recorded prompt](/graph/api/call-playprompt) to serve as a reminder.
+- [Ends the call](/graph/api/call-delete).
 
 
 ### Set up online meetings
