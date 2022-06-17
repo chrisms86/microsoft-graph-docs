@@ -43,8 +43,8 @@ You can access a set of Excel objects (such as Table, Range, or Chart) by using 
 ## API reference
 Looking for the API reference for this service?
 
-- [Excel API in Microsoft Graph v1.0](/graph/api/resources/excel?view=graph-rest-1.0)
-- [Excel API in Microsoft Graph beta](/graph/api/resources/excel?view=graph-rest-beta)
+- [Excel API in Microsoft Graph v1.0](/graph/api/resources/excel)
+- [Excel API in Microsoft Graph beta](/graph/api/resources/excel)
 
 ## Next steps
 
@@ -53,4 +53,4 @@ Looking for the API reference for this service?
 * [Use workbook functions in Excel with Microsoft Graph](excel-use-functions.md)
 * [Update a range’s format in Excel with Microsoft Graph](excel-update-range-format.md)
 * [Display a chart image in Excel with Microsoft Graph](excel-display-chart-image.md)
-* [Use the Excel REST API](/graph/api/resources/excel?view=graph-rest-1.0)
+* [Use the Excel REST API](/graph/api/resources/excel)

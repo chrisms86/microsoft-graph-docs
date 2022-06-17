@@ -35,4 +35,4 @@ A rubric *may* have points associated with each level, and a weight associated w
 
 ## API reference
 
-To begin using rubrics, start with the [educationRubric resource in Microsoft Graph beta](/graph/api/resources/educationrubric?view=graph-rest-beta) and associated methods.
+To begin using rubrics, start with the [educationRubric resource in Microsoft Graph beta](/graph/api/resources/educationrubric) and associated methods.
