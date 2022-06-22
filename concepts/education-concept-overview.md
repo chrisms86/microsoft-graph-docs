@@ -1,6 +1,6 @@
 ---
 title: "Education API overview"
-description: "The education API in Microsoft Graph enhances Microsoft 365 resources with information that is relevant for education scenarios, including information about schools, classes, users (students and teachers), assignments, and submissions. This makes it easy for you to build solutions that integrate with educational resources for various school and classroom scenarios."
+description: "Use the education API in Microsoft Graph to build solutions that integrate with educational resources for classroom scenarios such as rosters and assignments."
 author: "mmast-msft"
 ms.localizationpriority: high
 ms.prod: "education"
@@ -17,9 +17,9 @@ The education API in Microsoft Graph enhances Microsoft 365 resources with infor
 
 ### Build applications that are aware of class roster
 
-Most education software developers learn early on that class roster is one of the key pieces of information they need to run their application, and it's typically locked away inside a school Student Information System (SIS). Any time teachers bring a new application into their classroom, they spend time manually importing roster data into the app. Many independent software vendors (ISVs) address this by connecting with a SIS to import roster data. With hundreds of Student Information Systems with proprietary formats, this can become a challenge. [Microsoft School Data Sync](https://sds.microsoft.com/), combined with roster APIs, addresses this challenge for application developers and schools.
+Most education software developers learn early on that class roster is one of the key pieces of information they need to run their application, and it's typically locked away inside a school Student Information System (SIS). Any time teachers bring a new application into their classroom, they spend time manually importing roster data into the app. Many independent software vendors (ISVs) address this by connecting with a SIS to import roster data. With hundreds of Student Information Systems with proprietary formats, this can become a challenge.
 
-The following are some of the scenarios that the roster APIs enable:
+[Microsoft School Data Sync](https://sds.microsoft.com/), combined with roster APIs, addresses this challenge for application developers and schools. The following are some of the scenarios that the roster APIs enable:
 
 - [Get all classes in a school](/graph/api/educationschool-list-classes)
 - [Get all users in a class](/graph/api/educationclass-list-members)
@@ -38,6 +38,7 @@ The assignment APIs provide the following key resources:
 
 
 With the assignment API, your app can interact with the assignment service outside of Microsoft Teams. Microsoft Teams will handle distribution, due dates, and grading while your system can provide a rich learning experience to students.
+
 The following are examples of a few scenarios enabled by the assignments API:
 
 - [Add an assignment that links to your application](/graph/api/educationclass-post-assignments) 
@@ -55,11 +56,13 @@ School Data Sync management APIs support end-to-end scenarios for managing sync;
 - Manage sync lifecycle with [pause](/graph/api/educationsynchronizationprofile-pause), [resume](/graph/api/educationsynchronizationprofile-resume) and [reset](/graph/api/educationsynchronizationprofile-reset) operations
 
 ## API reference
+
 Looking for the API reference for this service?
 
 - [Education API in Microsoft Graph v1.0](/graph/api/resources/education-overview)
 - [Education API in Microsoft Graph beta](/graph/api/resources/education-overview)
 
+## Next steps
 
 ## Next Steps
 
@@ -73,4 +76,8 @@ Looking for the API reference for this service?
   - [Sample for profile management APIs](https://github.com/OfficeDev/O365-EDU-SDS-AspNetMVC-Samples) 
 
 
+Try the education APIs in [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer)
 
+Explore the following education-related samples:
+- [.NET sample for SSO & Rostering](https://github.com/OfficeDev/O365-EDU-AspNetMVC-Samples)
+- [Sample for profile management APIs](https://github.com/OfficeDev/O365-EDU-SDS-AspNetMVC-Samples)

@@ -22,7 +22,7 @@ An example of a grading rubric might be:
 | &nbsp;               | Good                                                              | Poor                                                      |
 |:---------------------|:------------------------------------------------------------------|:----------------------------------------------------------|
 | Argument             | The essay's argument is persuasive.                               | The essay's argument does not make sense.                 |
-| Spelling and Grammar | The essay uses proper spelling and grammar with few or no errors. | The essay has numerous errors in spelling and/or grammar. |
+| Spelling and grammar | The essay uses proper spelling and grammar with few or no errors. | The essay has numerous errors in spelling and/or grammar. |
 
 Grading using a rubric involves selecting one *level* for each *quality* in the rubric.
 
@@ -31,7 +31,7 @@ A rubric *may* have points associated with each level, and a weight associated w
 | &nbsp;                           | Good (2 points)                                                   | Poor (1 point)                                            |
 |:---------------------------------|:------------------------------------------------------------------|:----------------------------------------------------------|
 | Argument (weight 50)             | The essay's argument is persuasive.                               | The essay's argument does not make sense.                 |
-| Spelling and Grammar (weight 50) | The essay uses proper spelling and grammar with few or no errors. | The essay has numerous errors in spelling and/or grammar. |
+| Spelling and grammar (weight 50) | The essay uses proper spelling and grammar with few or no errors. | The essay has numerous errors in spelling and/or grammar. |
 
 ## API reference
 
