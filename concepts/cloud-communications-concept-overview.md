@@ -83,23 +83,14 @@ You can use the cloud communications API to:
 
 - Have a user [create an online meeting](/graph/api/application-post-onlinemeetings).
 - Have a user [retrieve the details](/graph/api/onlinemeeting-get) of an online meeting.
-<<<<<<< HEAD
-- Have a bot or a user [join an online meeting](/graph/api/application-post-calls).
-=======
 - Have a bot or a user [join an online meeting](/graph/api/application-post-calls#example-5-join-scheduled-meeting-with-service-hosted-media).
->>>>>>> f47811de738ca773b85ceeb04bf5f88cdd249a28
 
 ## API reference
 
 Looking for the API reference for this service?
 
-<<<<<<< HEAD
-- [Cloud Communications APIs in Microsoft Graph (v1.0)](/graph/api/resources/communications-api-overview)
-- [Cloud Communications APIs in Microsoft Graph (beta)](/graph/api/resources/communications-api-overview)
-=======
 - [Cloud communications API in Microsoft Graph v1.0](/graph/api/resources/communications-api-overview?view=graph-rest-1.0&preserve-view=true)
 - [Cloud communications API in Microsoft Graph beta](/graph/api/resources/communications-api-overview?view=graph-rest-beta&preserve-view=true)
->>>>>>> f47811de738ca773b85ceeb04bf5f88cdd249a28
 
 ## Next steps
 
